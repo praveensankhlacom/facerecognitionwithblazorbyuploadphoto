@@ -1,0 +1,12 @@
+C:\Users\praveen.sankhla\Desktop\Facerecognitionps\Facerecognitionps\Shared\bin\Debug\net7.0\Facerecognitionps.Shared.deps.json
+C:\Users\praveen.sankhla\Desktop\Facerecognitionps\Facerecognitionps\Shared\bin\Debug\net7.0\Facerecognitionps.Shared.dll
+C:\Users\praveen.sankhla\Desktop\Facerecognitionps\Facerecognitionps\Shared\bin\Debug\net7.0\Facerecognitionps.Shared.pdb
+C:\Users\praveen.sankhla\Desktop\Facerecognitionps\Facerecognitionps\Shared\obj\Debug\net7.0\Facerecognitionps.Shared.csproj.AssemblyReference.cache
+C:\Users\praveen.sankhla\Desktop\Facerecognitionps\Facerecognitionps\Shared\obj\Debug\net7.0\Facerecognitionps.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\praveen.sankhla\Desktop\Facerecognitionps\Facerecognitionps\Shared\obj\Debug\net7.0\Facerecognitionps.Shared.AssemblyInfoInputs.cache
+C:\Users\praveen.sankhla\Desktop\Facerecognitionps\Facerecognitionps\Shared\obj\Debug\net7.0\Facerecognitionps.Shared.AssemblyInfo.cs
+C:\Users\praveen.sankhla\Desktop\Facerecognitionps\Facerecognitionps\Shared\obj\Debug\net7.0\Facerecognitionps.Shared.csproj.CoreCompileInputs.cache
+C:\Users\praveen.sankhla\Desktop\Facerecognitionps\Facerecognitionps\Shared\obj\Debug\net7.0\Facerecognitionps.Shared.dll
+C:\Users\praveen.sankhla\Desktop\Facerecognitionps\Facerecognitionps\Shared\obj\Debug\net7.0\refint\Facerecognitionps.Shared.dll
+C:\Users\praveen.sankhla\Desktop\Facerecognitionps\Facerecognitionps\Shared\obj\Debug\net7.0\Facerecognitionps.Shared.pdb
+C:\Users\praveen.sankhla\Desktop\Facerecognitionps\Facerecognitionps\Shared\obj\Debug\net7.0\ref\Facerecognitionps.Shared.dll

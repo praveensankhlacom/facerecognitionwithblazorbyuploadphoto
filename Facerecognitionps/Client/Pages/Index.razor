@@ -1,0 +1,28 @@
+﻿@inject IJSRuntime JSRuntime
+@page "/"
+
+<style>
+    .imafg {
+        position:relative;
+    }
+
+    canvas {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+</style>
+
+<div>
+    <h3 id="heading">Upload Image to Face Recognition</h3>
+    <input type="file" id="imageUpload">
+    <div id="imageshow" class="imafg"></div>
+</div>
+
+@code{
+    protected override void OnAfterRender(bool firstRender)
+    {
+        JSRuntime.InvokeAsync<String>("Facerecognition", "imageUpload");
+    }
+}
+
