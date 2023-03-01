@@ -53,7 +53,7 @@
       "url": "face-api.min.js"
     },
     {
-      "hash": "sha256-1rpjDkXv1ak1RX6wUnPQNNcxSpe+TeL0EUG7U4oLAdo=",
+      "hash": "sha256-OqZqJxN3dRPZnQej26kAkkMGj2EK6oFRmHwZ0iTdmzA=",
       "url": "faceapi.js"
     },
     {
@@ -965,5 +965,5 @@
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "eRqL3jnQ"
+  "version": "V576Tnd9"
 };

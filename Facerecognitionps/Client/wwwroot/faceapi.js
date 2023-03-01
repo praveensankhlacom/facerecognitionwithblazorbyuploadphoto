@@ -3,22 +3,25 @@
     let canvasimg = document.getElementById(canva)
     let container = document.getElementById('imageshow')
     let click_btn = document.getElementById('clickphoto')
-
+    let pk = document.getElementById('heading')
+    pk.innerHTML = "Loading..."
     Promise.all([
         faceapi.nets.faceRecognitionNet.loadFromUri('/models'),
         faceapi.nets.faceLandmark68Net.loadFromUri('/models'),
         faceapi.nets.ssdMobilenetv1.loadFromUri('/models')
     ]).then(start)
 
-    async function start() {
+    async function startcam() {
         let stream = await navigator.mediaDevices.getUserMedia({ video: true, audio: false });
         video.srcObject = stream;
+    }
 
+    async function start() {
+        await startcam();
+        pk.innerHTML = "Click Image to recognition"
         const labeledFaceDescriptors = await loadLabeledImages()
         const faceMatcher = new faceapi.FaceMatcher(labeledFaceDescriptors, 0.4)
         let image
-        let pk = document.getElementById('heading')
-        pk.innerHTML = "Loading..."
         click_btn.addEventListener('click', async () => {
             canvasimg.getContext('2d').drawImage(video, 0, 0, canvasimg.width, canvasimg.height);
             let image_data_url = canvasimg.toDataURL('image/jpeg');
