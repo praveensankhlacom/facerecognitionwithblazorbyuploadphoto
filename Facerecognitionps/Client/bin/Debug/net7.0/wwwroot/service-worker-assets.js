@@ -137,7 +137,7 @@
       "url": "models\/tiny_face_detector_model-weights_manifest.json"
     },
     {
-      "hash": "sha256-1l2CHEXCeMwao09+oA01bZZ+AxitLs6cm0VJTW\/eGFc=",
+      "hash": "sha256-dizNFsstH3vg6AlmBlySt3zjDgHgx56m4GnKsyM3E3w=",
       "url": "script.js"
     },
     {
@@ -961,5 +961,5 @@
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "hQohL0bi"
+  "version": "lHoYd4iw"
 };

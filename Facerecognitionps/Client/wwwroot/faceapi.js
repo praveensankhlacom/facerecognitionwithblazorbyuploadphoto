@@ -10,7 +10,7 @@
 
     async function start() {
         const labeledFaceDescriptors = await loadLabeledImages()
-        const faceMatcher = new faceapi.FaceMatcher(labeledFaceDescriptors, 0.6)
+        const faceMatcher = new faceapi.FaceMatcher(labeledFaceDescriptors, 0.4)
         let image
         let canvas
         let pk = document.getElementById('heading')
@@ -29,10 +29,10 @@
             const resizedDetections = faceapi.resizeResults(detections, displaySize)
             const results = resizedDetections.map(d => faceMatcher.findBestMatch(d.descriptor))
             results.forEach((result, i) => {
-                pk.innerHTML = `Hello ${result.label} 👻`;
                 const box = resizedDetections[i].detection.box
                 const drawBox = new faceapi.draw.DrawBox(box, { label: result.toString() })
-                drawBox.draw(canvas)
+                    drawBox.draw(canvas)
+                    pk.innerHTML = `Hello ${result.label} 👻`;
             })
         })
     }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aYZZke4T4+/WB0jBgtcQD7cR5Y3Wg7xSN5NyhaKlvGw=",
+  "Hash": "xWPYGI4Vz9amA2GFqWTZi8D26TXVXB3hphz4Rm9QBY0=",
   "Source": "Facerecognitionps.Server",
   "BasePath": "_content/Facerecognitionps.Server",
   "Mode": "Default",
@@ -7305,23 +7305,6 @@
       "OriginalItemSpec": "wwwroot\\labeled_images\\Komal Suthar\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\labeled_images\\Komal Suthar\\2.jpg",
-      "SourceId": "Facerecognitionps.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "labeled_images/Komal Suthar/2.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\labeled_images\\Komal Suthar\\2.jpg"
-    },
-    {
       "Identity": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\labeled_images\\Praveen Sankhla\\1.jpg",
       "SourceId": "Facerecognitionps.Client",
       "SourceType": "Project",
@@ -7337,23 +7320,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\labeled_images\\Praveen Sankhla\\1.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\labeled_images\\Praveen Sankhla\\2.jpg",
-      "SourceId": "Facerecognitionps.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "labeled_images/Praveen Sankhla/2.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\labeled_images\\Praveen Sankhla\\2.jpg"
     },
     {
       "Identity": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\labeled_images\\Tarun Vaya\\1.jpg",
@@ -7373,23 +7339,6 @@
       "OriginalItemSpec": "wwwroot\\labeled_images\\Tarun Vaya\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\labeled_images\\Tarun Vaya\\2.jpg",
-      "SourceId": "Facerecognitionps.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "labeled_images/Tarun Vaya/2.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\labeled_images\\Tarun Vaya\\2.jpg"
-    },
-    {
       "Identity": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\labeled_images\\Teenu Sharma\\1.jpg",
       "SourceId": "Facerecognitionps.Client",
       "SourceType": "Project",
@@ -7405,23 +7354,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\labeled_images\\Teenu Sharma\\1.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\labeled_images\\Teenu Sharma\\2.jpg",
-      "SourceId": "Facerecognitionps.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "labeled_images/Teenu Sharma/2.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\labeled_images\\Teenu Sharma\\2.jpg"
     },
     {
       "Identity": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\manifest.json",
