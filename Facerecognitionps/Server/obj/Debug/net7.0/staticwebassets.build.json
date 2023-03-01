@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xWPYGI4Vz9amA2GFqWTZi8D26TXVXB3hphz4Rm9QBY0=",
+  "Hash": "GUT8f/M40Q9ph/Jcs5u1Oh0WBjSBD7XrGeCq3HSou58=",
   "Source": "Facerecognitionps.Server",
   "BasePath": "_content/Facerecognitionps.Server",
   "Mode": "Default",
@@ -7203,6 +7203,23 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
+      "Identity": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\faceapi.js",
+      "SourceId": "Facerecognitionps.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "faceapi.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\faceapi.js"
+    },
+    {
       "Identity": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\face-api.min.js",
       "SourceId": "Facerecognitionps.Client",
       "SourceType": "Project",
@@ -7320,6 +7337,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\labeled_images\\Praveen Sankhla\\1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\labeled_images\\Ridhi\\1.jpg",
+      "SourceId": "Facerecognitionps.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "labeled_images/Ridhi/1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\labeled_images\\Ridhi\\1.jpg"
     },
     {
       "Identity": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\labeled_images\\Tarun Vaya\\1.jpg",
@@ -7575,23 +7609,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\models\\tiny_face_detector_model-weights_manifest.json"
-    },
-    {
-      "Identity": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\script.js",
-      "SourceId": "Facerecognitionps.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "script.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\script.js"
     }
   ]
 }

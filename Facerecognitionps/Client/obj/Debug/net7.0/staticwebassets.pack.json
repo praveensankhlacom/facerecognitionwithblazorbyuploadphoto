@@ -73,6 +73,10 @@
       "PackagePath": "staticwebassets\\face-api.min.js"
     },
     {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\faceapi.js",
+      "PackagePath": "staticwebassets\\faceapi.js"
+    },
+    {
       "Id": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
@@ -95,6 +99,10 @@
     {
       "Id": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\labeled_images\\Praveen Sankhla\\1.jpg",
       "PackagePath": "staticwebassets\\labeled_images\\Praveen Sankhla\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\labeled_images\\Ridhi\\1.jpg",
+      "PackagePath": "staticwebassets\\labeled_images\\Ridhi\\1.jpg"
     },
     {
       "Id": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\labeled_images\\Tarun Vaya\\1.jpg",
@@ -155,10 +163,6 @@
     {
       "Id": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\models\\tiny_face_detector_model-weights_manifest.json",
       "PackagePath": "staticwebassets\\models\\tiny_face_detector_model-weights_manifest.json"
-    },
-    {
-      "Id": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\wwwroot\\script.js",
-      "PackagePath": "staticwebassets\\script.js"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Facerecognitionps.Client.Microsoft.AspNetCore.StaticWebAssets.props",

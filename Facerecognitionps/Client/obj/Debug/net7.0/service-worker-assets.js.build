@@ -53,6 +53,10 @@
       "url": "face-api.min.js"
     },
     {
+      "hash": "sha256-1rpjDkXv1ak1RX6wUnPQNNcxSpe+TeL0EUG7U4oLAdo=",
+      "url": "faceapi.js"
+    },
+    {
       "hash": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
       "url": "favicon.png"
     },
@@ -65,7 +69,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-it\/ZCqAMDPr3InJiw1pacvqysSNUvuHMsqBEI\/j3aqo=",
+      "hash": "sha256-rt40RqsLAZmyG6mDuYalq2RST30VocU4YauEUUgwtpk=",
       "url": "index.html"
     },
     {
@@ -75,6 +79,10 @@
     {
       "hash": "sha256-OlKeap2QK0cOUhpSiEzMmV30y92S4GGgtC+duQTEiJg=",
       "url": "labeled_images\/Praveen Sankhla\/1.jpg"
+    },
+    {
+      "hash": "sha256-2YwIZ9YSz\/nuCYZ1eBym23tFBLVHWb7e4uLtkiu4W\/0=",
+      "url": "labeled_images\/Ridhi\/1.jpg"
     },
     {
       "hash": "sha256-YgvKEHwIb5da9lq+9x13dGlUU8BkCfZED8ZRdfncngs=",
@@ -135,10 +143,6 @@
     {
       "hash": "sha256-+jd8ErtISH9uIu6\/82ffW8TW4Ywf4++uEwYQh0tsaAY=",
       "url": "models\/tiny_face_detector_model-weights_manifest.json"
-    },
-    {
-      "hash": "sha256-dizNFsstH3vg6AlmBlySt3zjDgHgx56m4GnKsyM3E3w=",
-      "url": "script.js"
     },
     {
       "hash": "sha256-9FfR6\/g5\/v9QWepJkGat8UqWq1n08CVrbUMow7DZoKQ=",
@@ -945,11 +949,11 @@
       "url": "_framework\/Facerecognitionps.Shared.pdb"
     },
     {
-      "hash": "sha256-z3wV6kq\/PFH25QGe379Ox8qyf\/mcBprgSE0oDlpsPOE=",
+      "hash": "sha256-6rPo0nwBsk7NCaP33TSu3daMardF16qo6XVGNT4m3OU=",
       "url": "_framework\/Facerecognitionps.Client.dll"
     },
     {
-      "hash": "sha256-zvmjNgUyhbkRrfCVdmoByKmm1DeJ1UBp4gCTsM51xGo=",
+      "hash": "sha256-5ZQIMTQel\/sNRNNnBznMFJ5y4Eiue3HGXqFn0Hz8YmY=",
       "url": "_framework\/Facerecognitionps.Client.pdb"
     },
     {
@@ -957,9 +961,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-HpYfl8PzLPpJX25vzsP2C5hqIriskcwSxBCGUt7RL34=",
+      "hash": "sha256-4GZgs7jejXrBr7kTnBw8OVPbR7MHVIgKLNczTc\/mUwk=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "lHoYd4iw"
+  "version": "eRqL3jnQ"
 };

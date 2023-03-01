@@ -3,7 +3,7 @@
 
 <style>
     .imafg {
-        position:relative;
+        position: relative;
     }
 
     canvas {
@@ -14,15 +14,17 @@
 </style>
 
 <div>
-    <h3 id="heading">Upload Image to Face Recognition</h3>
-    <input type="file" id="imageUpload">
+    <h3 id="heading">Face Recognition</h3>
+    <video id="video" width="320" height="240" autoplay></video>
+    <button id="clickphoto">Click Photo</button>
+    <canvas id="canvas" width="320" height="240"></canvas>
     <div id="imageshow" class="imafg"></div>
 </div>
 
-@code{
+@code {
     protected override void OnAfterRender(bool firstRender)
     {
-        JSRuntime.InvokeAsync<String>("Facerecognition", "imageUpload");
+        JSRuntime.InvokeAsync<String>("Facerecognition", "video", "canvas");
     }
 }
 
