@@ -41,10 +41,17 @@
             const resizedDetections = faceapi.resizeResults(detections, displaySize)
             const results = resizedDetections.map(d => faceMatcher.findBestMatch(d.descriptor))
             results.forEach((result, i) => {
-                pk.innerHTML = `Hello ${result.label} 👻`;
-                const box = resizedDetections[i].detection.box
-                const drawBox = new faceapi.draw.DrawBox(box, { label: result.toString() })
-                drawBox.draw(canvasimg)
+                if (result.label == 'unknown') {
+                    pk.innerHTML = 'face not recognize plese click again';
+                    if (image) image.remove();
+                    if (canvasimg) canvasi.remove();
+                }
+                else {
+                    pk.innerHTML = `Hello ${result.label} 👻`;
+                    const box = resizedDetections[i].detection.box
+                    const drawBox = new faceapi.draw.DrawBox(box)
+                    drawBox.draw(canvasimg)
+                }
             })
         })
     }
@@ -64,4 +71,5 @@
         )
     }
 }
+
 

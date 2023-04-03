@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CxDuwuZ6Aa5if+nLUcB0K9Ym8FGSMPRqIZk4g5vD9Y8rbyKWAE22c7tjiFPUW6dFX4LS6zJggGBG1I5+OwRftg==",
+  "dgSpecHash": "LMIRP8AiTYyL3prbE7zAyvbdPaP1CuBNuz0zguKxMfQPJUhOQ83XGA4j4lAwwDdJu8f4JVOwMzwOy9EgYmUPlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\Facerecognitionps.Client.csproj",
+  "projectFilePath": "F:\\PS\\Praveen Sankhla\\Facerecognitionps\\Facerecognitionps\\Client\\Facerecognitionps.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\praveen.sankhla\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.3\\microsoft.aspnetcore.authorization.7.0.3.nupkg.sha512",
     "C:\\Users\\praveen.sankhla\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.3\\microsoft.aspnetcore.components.7.0.3.nupkg.sha512",
@@ -31,7 +31,7 @@
     "C:\\Users\\praveen.sankhla\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\praveen.sankhla\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\praveen.sankhla\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\praveen.sankhla\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.3\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.3.nupkg.sha512"
+    "C:\\Users\\praveen.sankhla\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.4\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.4.nupkg.sha512"
   ],
   "logs": []
 }

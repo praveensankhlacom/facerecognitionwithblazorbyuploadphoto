@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\Facerecognitionps.Client.csproj": {}
+    "F:\\PS\\Praveen Sankhla\\Facerecognitionps\\Facerecognitionps\\Client\\Facerecognitionps.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\Facerecognitionps.Client.csproj": {
+    "F:\\PS\\Praveen Sankhla\\Facerecognitionps\\Facerecognitionps\\Client\\Facerecognitionps.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\Facerecognitionps.Client.csproj",
+        "projectUniqueName": "F:\\PS\\Praveen Sankhla\\Facerecognitionps\\Facerecognitionps\\Client\\Facerecognitionps.Client.csproj",
         "projectName": "Facerecognitionps.Client",
-        "projectPath": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\Facerecognitionps.Client.csproj",
+        "projectPath": "F:\\PS\\Praveen Sankhla\\Facerecognitionps\\Facerecognitionps\\Client\\Facerecognitionps.Client.csproj",
         "packagesPath": "C:\\Users\\praveen.sankhla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Client\\obj\\",
+        "outputPath": "F:\\PS\\Praveen Sankhla\\Facerecognitionps\\Facerecognitionps\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Shared\\Facerecognitionps.Shared.csproj": {
-                "projectPath": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Shared\\Facerecognitionps.Shared.csproj"
+              "F:\\PS\\Praveen Sankhla\\Facerecognitionps\\Facerecognitionps\\Shared\\Facerecognitionps.Shared.csproj": {
+                "projectPath": "F:\\PS\\Praveen Sankhla\\Facerecognitionps\\Facerecognitionps\\Shared\\Facerecognitionps.Shared.csproj"
               }
             }
           }
@@ -74,7 +74,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[7.0.3, 7.0.3]"
+              "version": "[7.0.4, 7.0.4]"
             }
           ],
           "frameworkReferences": {
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Shared\\Facerecognitionps.Shared.csproj": {
+    "F:\\PS\\Praveen Sankhla\\Facerecognitionps\\Facerecognitionps\\Shared\\Facerecognitionps.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Shared\\Facerecognitionps.Shared.csproj",
+        "projectUniqueName": "F:\\PS\\Praveen Sankhla\\Facerecognitionps\\Facerecognitionps\\Shared\\Facerecognitionps.Shared.csproj",
         "projectName": "Facerecognitionps.Shared",
-        "projectPath": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Shared\\Facerecognitionps.Shared.csproj",
+        "projectPath": "F:\\PS\\Praveen Sankhla\\Facerecognitionps\\Facerecognitionps\\Shared\\Facerecognitionps.Shared.csproj",
         "packagesPath": "C:\\Users\\praveen.sankhla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\praveen.sankhla\\Desktop\\Facerecognitionps\\Facerecognitionps\\Shared\\obj\\",
+        "outputPath": "F:\\PS\\Praveen Sankhla\\Facerecognitionps\\Facerecognitionps\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -148,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

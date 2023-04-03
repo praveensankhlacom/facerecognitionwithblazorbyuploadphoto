@@ -53,7 +53,7 @@
       "url": "face-api.min.js"
     },
     {
-      "hash": "sha256-OqZqJxN3dRPZnQej26kAkkMGj2EK6oFRmHwZ0iTdmzA=",
+      "hash": "sha256-NlXBgiNeg+HX\/hUVVfOcH\/78iBRUnD3TQz8dc6wQXUA=",
       "url": "faceapi.js"
     },
     {
@@ -913,10 +913,6 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-DxGvmbtUa6hGJpk3VyMEbkPZ653qWbQkh8X4ZVM9TWM=",
-      "url": "_framework\/dotnet.7.0.3.oiy0p6lola.js"
-    },
-    {
       "hash": "sha256-jgK4sHqNVMYvwtJ9cbh\/rz\/+ZekC9qEBgHdG\/NsjYhw=",
       "url": "_framework\/dotnet.timezones.blat"
     },
@@ -949,11 +945,11 @@
       "url": "_framework\/Facerecognitionps.Shared.pdb"
     },
     {
-      "hash": "sha256-6rPo0nwBsk7NCaP33TSu3daMardF16qo6XVGNT4m3OU=",
+      "hash": "sha256-EMJ2ifTrf0FmndD7u3ZYr57utqYkDwibHs6P0dwMxAQ=",
       "url": "_framework\/Facerecognitionps.Client.dll"
     },
     {
-      "hash": "sha256-5ZQIMTQel\/sNRNNnBznMFJ5y4Eiue3HGXqFn0Hz8YmY=",
+      "hash": "sha256-K+ngBBlc19vv96ikfhZjPMeTf85tC0rRudHhrfd4Rik=",
       "url": "_framework\/Facerecognitionps.Client.pdb"
     },
     {
@@ -961,9 +957,13 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-4GZgs7jejXrBr7kTnBw8OVPbR7MHVIgKLNczTc\/mUwk=",
+      "hash": "sha256-476v3gm2O1TTmVbQeHfpCV5gj\/5tg9mHZzDWyKrw\/CU=",
       "url": "_framework\/blazor.boot.json"
+    },
+    {
+      "hash": "sha256-3l+4ZYRWpGMbBjNqeIqO9T\/65euaOzIvRlVX2SySvFQ=",
+      "url": "_framework\/dotnet.7.0.4.0w4alxaypv.js"
     }
   ],
-  "version": "V576Tnd9"
+  "version": "Eh8mJxxA"
 };

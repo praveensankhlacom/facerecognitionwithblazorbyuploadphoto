@@ -9,13 +9,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Facerecognitionps.Server
 build_property.RootNamespace = Facerecognitionps.Server
-build_property.ProjectDir = C:\Users\praveen.sankhla\Desktop\Facerecognitionps\Facerecognitionps\Server\
+build_property.ProjectDir = F:\PS\Praveen Sankhla\Facerecognitionps\Facerecognitionps\Server\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\praveen.sankhla\Desktop\Facerecognitionps\Facerecognitionps\Server
+build_property.MSBuildProjectDirectory = F:\PS\Praveen Sankhla\Facerecognitionps\Facerecognitionps\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/praveen.sankhla/Desktop/Facerecognitionps/Facerecognitionps/Server/Pages/Error.cshtml]
+[F:/PS/Praveen Sankhla/Facerecognitionps/Facerecognitionps/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
